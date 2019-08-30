@@ -1,0 +1,4 @@
+{
+  you_guessed: @number,
+  message: @message
+}
